@@ -150,18 +150,15 @@
 }
 
 /*--hero Section--*/
-
-.feature_wrapper{
-
-    background-color: #FBFBFB;
+section .solution_wrapper{
+    background-color: #000;;
 }
-
 .feature_wrapper{
     width: 85%;
     height: 674px;
     max-width: 1600px;
     margin: 0 auto;
-    padding: 8;
+    padding-top: 44px;
 }
 
 .feature_content_wrapper .feature_heading{
@@ -305,7 +302,7 @@
     margin: 0 auto;
     padding: 80px 0;
     border-radius: 12px;
-    margin-bottom: 120px;
+    margin-bottom: 80px;
 }
 .call_to_action_contents{
     display: flex;
